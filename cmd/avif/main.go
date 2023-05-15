@@ -8,8 +8,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/Kagami/go-avif"
 	"github.com/docopt/docopt-go"
+	"github.com/ssmitienko/go-avif"
 )
 
 const VERSION = "0.0.0"

@@ -1,4 +1,4 @@
-# go-avif [![Build Status](https://travis-ci.org/Kagami/go-avif.svg?branch=master)](https://travis-ci.org/Kagami/go-avif) [![GoDoc](https://godoc.org/github.com/Kagami/go-avif?status.svg)](https://godoc.org/github.com/Kagami/go-avif)
+# go-avif [![GoDoc](https://godoc.org/github.com/Kagami/go-avif?status.svg)](https://godoc.org/github.com/Kagami/go-avif)
 
 go-avif implements
 AVIF ([AV1 Still Image File Format](https://aomediacodec.github.io/av1-avif/))
