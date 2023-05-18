@@ -4,7 +4,7 @@
 package avif
 
 // #cgo CFLAGS: -Wall -O2 -DNDEBUG
-// #cgo LDFLAGS: -laom
+// #cgo LDFLAGS: -laom -lm
 // #include <stdlib.h>
 // #include "av1.h"
 import "C"
